@@ -1,0 +1,67 @@
+190307 13:36:55 [Note] Plugin 'FEDERATED' is disabled.
+190307 13:36:55 InnoDB: The InnoDB memory heap is disabled
+190307 13:36:55 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+190307 13:36:55 InnoDB: Compressed tables use zlib 1.2.3
+190307 13:36:55 InnoDB: Initializing buffer pool, size = 128.0M
+190307 13:36:55 InnoDB: Completed initialization of buffer pool
+190307 13:36:55 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+190307 13:36:55  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190307 13:36:55  InnoDB: Waiting for the background threads to start
+190307 13:36:56 InnoDB: 1.1.8 started; log sequence number 1706157
+190307 14:12:24 [Note] Plugin 'FEDERATED' is disabled.
+190307 14:12:24 InnoDB: The InnoDB memory heap is disabled
+190307 14:12:24 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+190307 14:12:24 InnoDB: Compressed tables use zlib 1.2.3
+190307 14:12:24 InnoDB: Initializing buffer pool, size = 128.0M
+190307 14:12:24 InnoDB: Completed initialization of buffer pool
+190307 14:12:24 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+190307 14:12:24  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190307 14:12:24  InnoDB: Waiting for the background threads to start
+190307 14:12:25 InnoDB: 1.1.8 started; log sequence number 1735692
+190311 16:06:38 [Note] Plugin 'FEDERATED' is disabled.
+190311 16:06:38 InnoDB: The InnoDB memory heap is disabled
+190311 16:06:38 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+190311 16:06:38 InnoDB: Compressed tables use zlib 1.2.3
+190311 16:06:38 InnoDB: Initializing buffer pool, size = 128.0M
+190311 16:06:38 InnoDB: Completed initialization of buffer pool
+190311 16:06:38 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+190311 16:06:38  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190311 16:06:38  InnoDB: Waiting for the background threads to start
+190311 16:06:39 InnoDB: 1.1.8 started; log sequence number 1770742
+190311 16:06:39 [Note] Event Scheduler: Loaded 0 events
+190311 16:06:39 [Note] C:\Users\c.stjacques\Desktop\WebSystem\Example\MySQLDatabase/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3306  MySQL Community Server (GPL)
+190312 12:39:18 [Note] Plugin 'FEDERATED' is disabled.
+190312 12:39:18 InnoDB: The InnoDB memory heap is disabled
+190312 12:39:18 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+190312 12:39:18 InnoDB: Compressed tables use zlib 1.2.3
+190312 12:39:18 InnoDB: Initializing buffer pool, size = 128.0M
+190312 12:39:18 InnoDB: Completed initialization of buffer pool
+190312 12:39:18 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+190312 12:39:18  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190312 12:39:18  InnoDB: Waiting for the background threads to start
+190312 12:39:19 InnoDB: 1.1.8 started; log sequence number 1776482
